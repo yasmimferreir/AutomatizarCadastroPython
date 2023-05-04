@@ -1,12 +1,6 @@
 {
-  "cSpell.words": [
-    "arquivo",
-    "linha",
-    "preco",
-    "produto",
-    "produtos",
-    "pyautogui",
-    "quantidade",
-    "Yasmim"
-  ]
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
 }
